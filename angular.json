@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "EventProgram"
+  "defaultProject": "EventProgram",
+  "cli": {
+    "analytics": "28b470a7-e581-454e-83c9-c195402135c9"
+  }
 }
